@@ -41,14 +41,17 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
   <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
 </div>
 </td></tr></table>  
-  
+
+<div float='left'>
 ## About me
   - Mathematical mindset; I studied maths and physics before my decision to change career paths
   - Focus on functionality, the thing that got me into coding was playing around with scripting in Unity
   - I also work as a voice actor!
   - I'm probably gluten intolerant but I love pizza too much to come to terms with that fact
   - Sadly I cannot get over my League of Legends addiction...
-
-  <p align="right">
+</div>
+<div float='right'>
+  <p align="center">
     <img src="https://c.tenor.com/mErcWBSg078AAAAM/seal-lol.gif" />
   </p>
+</div>
