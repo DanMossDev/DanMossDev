@@ -53,7 +53,7 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
 </div>
 <div float='right'>
   
-  <p align="center">
+  <p align="right">
     <img src="https://c.tenor.com/mErcWBSg078AAAAM/seal-lol.gif" />
   </p>
 </div>
