@@ -53,6 +53,6 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
   - Sadly I cannot get over my League of Legends addiction...
   </p>
   
-<img align='right' src="https://c.tenor.com/mErcWBSg078AAAAM/seal-lol.gif" />
+<img align='center' src="https://c.tenor.com/mErcWBSg078AAAAM/seal-lol.gif" />
 
 </div>
