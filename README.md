@@ -1,4 +1,6 @@
-![Hey there, I'm Moss!]
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
 ## I'm a software development student at <a href="https://northcoders.com/">Northcoders</a>
 I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python and C#. Down the line, with plans to learn React, Typescript, Redux, MongoDB, and more.
