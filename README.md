@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+# Hi there! I'm Daniel Moss, but my friends call me *Moss*
 
 ## I'm a software development student at <a href="https://northcoders.com/">Northcoders</a>
 I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python and C#. Down the line, with plans to learn React, Typescript, Redux, MongoDB, and more.
@@ -49,3 +47,9 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
   - Focus on functionality, the thing that got me into coding was playing around with scripting in Unity
   - I also work as a voice actor!
   - I'm probably gluten intolerant but I love pizza too much to come to terms with that fact
+  - Sadly I cannot get over my League of Legends addiction...
+
+
+<p align="center">
+  <img src="https://c.tenor.com/mErcWBSg078AAAAM/seal-lol.gif" />
+</p>
