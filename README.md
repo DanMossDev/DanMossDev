@@ -42,7 +42,7 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
   <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
   <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
 </div>
-</td>
+</td></tr></table>  
   
 ## About me
   - Mathematical mindset; I studied maths and physics before my decision to change career paths onto software development
