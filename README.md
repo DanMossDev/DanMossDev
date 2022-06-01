@@ -43,6 +43,7 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
 </td></tr></table>  
 
 <div float='left'>
+  
 ## About me
   - Mathematical mindset; I studied maths and physics before my decision to change career paths
   - Focus on functionality, the thing that got me into coding was playing around with scripting in Unity
