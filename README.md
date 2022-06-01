@@ -7,6 +7,8 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
+  
+  
 ### Frontend  
 <div align="center">  
   <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
@@ -16,6 +18,8 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
 </td>
   
 <td valign="top" width="33%">
+  
+  
 ### Backend  
 <div align="center">    
   <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
@@ -28,6 +32,8 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
 </td>
  
 <td valign="top" width="33%">
+  
+  
 ### Planning to Learn
 <div align="center">    
   <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
