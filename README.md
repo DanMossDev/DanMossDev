@@ -52,6 +52,7 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
   - Sadly I cannot get over my League of Legends addiction...
 </div>
 <div float='right'>
+  
   <p align="center">
     <img src="https://c.tenor.com/mErcWBSg078AAAAM/seal-lol.gif" />
   </p>
