@@ -43,6 +43,7 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
 </td></tr></table>  
 
 <div align='left'>
+<p width='60%'>
   
 ## About me
   - Mathematical mindset; I studied maths and physics before my decision to change career paths
@@ -50,7 +51,7 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
   - I also work as a voice actor!
   - I'm probably gluten intolerant but I love pizza too much to come to terms with that fact
   - Sadly I cannot get over my League of Legends addiction...
-
+  </p>
   
 <img align='right' src="https://c.tenor.com/mErcWBSg078AAAAM/seal-lol.gif" />
 
