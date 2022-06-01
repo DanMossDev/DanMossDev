@@ -42,17 +42,13 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
 </div>
 </td></tr></table>  
   
-  
-<table><tr><td valign='top' width='66%'>
 ## About me
-  - Mathematical mindset; I studied maths and physics before my decision to change career paths onto software development
+  - Mathematical mindset; I studied maths and physics before my decision to change career paths
   - Focus on functionality, the thing that got me into coding was playing around with scripting in Unity
   - I also work as a voice actor!
   - I'm probably gluten intolerant but I love pizza too much to come to terms with that fact
   - Sadly I cannot get over my League of Legends addiction...
-</td>
-<td valign='top' width='33%'>
-  <p align="center">
+
+  <p align="right">
     <img src="https://c.tenor.com/mErcWBSg078AAAAM/seal-lol.gif" />
   </p>
-</td></tr></table>
