@@ -47,7 +47,7 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
   
 ## About me
   - Mathematical mindset; I studied maths and physics before my decision to change career paths
-  - Focus on functionality, the thing that got me into coding was playing around with scripting in Unity
+  - Desire to build fun experiences for the user, the thing that got me into coding was playing around with scripting in Unity
   - I also work as a voice actor!
   - I'm probably gluten intolerant but I love pizza too much to come to terms with that fact
   - Sadly I cannot get over my League of Legends addiction...
