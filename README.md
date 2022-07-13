@@ -1,4 +1,4 @@
-# Hi there! I'm Daniel Moss, but my friends call me *Moss*
+# Hi there! I'm Daniel Moss, but most folks just call me *Moss*
 
 ## I'm a software development student at <a href="https://northcoders.com/">Northcoders</a>
 I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python and C#. Down the line, with plans to learn React, Typescript, Redux, MongoDB, and more.
