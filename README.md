@@ -1,7 +1,9 @@
 # Hi there! I'm Daniel Moss, but most folks just call me *Moss*
 
-## I'm a software development student at <a href="https://northcoders.com/">Northcoders</a>
-I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python and C#. Down the line, with plans to learn React, Typescript, Redux, MongoDB, and more.
+## I'm a game developer at <a href="https://www.cruciblesoftware.com/">Crucible</a>
+I have a strong background in JavaScript, React, HTML/CSS, PostgreSQL, Python, and MongoDB.
+Professionally I work with PixiJS and GreenSock to create digital games.
+I'm also getting to grips with C# through Unity and .Net, and have a keen interesting in using C++ in the future.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -30,9 +32,8 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
   
 ### Planning to Learn
 <div align="center">     
-  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> 
-  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
   <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> 
 </div>
 </td></tr></table>  
 
@@ -41,7 +42,7 @@ I'm currently learning HTML, CSS, JavaScript, NodeJS, SQL, and a little Python a
   
 ## About me
   - Mathematical mindset; I studied maths and physics before my decision to change career paths
-  - Desire to build fun experiences for the user, the thing that got me into coding was playing around with scripting in Unity
+  - Desire to build fun experiences for users
   - I also work as a voice actor!
   - I'm probably gluten intolerant but I love pizza too much to come to terms with that fact
   - Sadly I cannot get over my League of Legends addiction...
