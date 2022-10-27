@@ -51,3 +51,7 @@ I'm also getting to grips with C# through Unity and .Net, and have a keen intere
 <img align='center' src="https://c.tenor.com/mErcWBSg078AAAAM/seal-lol.gif" />
 
 </div>
+
+![Moss's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanMossDev&count_private=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanMossDev)](https://github.com/DanMossDev/github-readme-stats)
