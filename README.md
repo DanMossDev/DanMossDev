@@ -54,6 +54,6 @@ I'm also getting to grips with C# through Unity and .Net, and have a keen intere
 
 <br/>
 
-![Moss's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanMossDev&count_private=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanMossDev)](https://github.com/DanMossDev/github-readme-stats)
+
+![Moss's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanMossDev&count_private=true&theme=tokyonight)
