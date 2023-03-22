@@ -1,7 +1,7 @@
 # Hi there! I'm Daniel Moss, but most folks just call me *Moss*
 
 ## I'm a game developer at <a href="https://hyperluminalgames.com/">Hyper Luminal Games</a>
-I use C# and Unity to create games, but also have professional experience ysing JavaScript, PixiJS, Python, React, HTML/CSS and PostgreSQL.
+I use C# and Unity to create games, but also have professional experience using JavaScript, PixiJS, Python, React, HTML/CSS and PostgreSQL.
 I've dabbled a bit here and there with C++ and Unreal Engine.
 
 ## My Skill Set  
